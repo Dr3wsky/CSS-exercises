@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffb3b3;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    }
+
+.oddly-neat {
+    font-size: 24px;
+    }
+
+#two{
+    color:rgb(0, 0, 153) ;
+    font-size: 36px;
+    }
+
+#four{
+    background-color: hsl(120, 63%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
